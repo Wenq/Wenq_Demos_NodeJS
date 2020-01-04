@@ -4,7 +4,7 @@
  * @Author: wenq
  * @Date: 2020-01-01 19:57:23
  * @LastEditors  : wenq
- * @LastEditTime : 2020-01-03 22:56:45
+ * @LastEditTime : 2020-01-04 20:01:11
  -->
 # nodeJS 回调函数
 
@@ -17,4 +17,7 @@
 function foo1(name, age, callback){}
 function foo2(value, callback1, callback2){}
 ```
+
+阻塞代码实例，见main.js文件。
+非阻塞式代码实例，见main.js文件。
 
