@@ -1,0 +1,20 @@
+{
+    "user1": {
+        "name": "wuqinghui",
+        "passowrd": "wqh",
+        "profession": "tearcher",
+        "id": 1
+    },
+    "user2": {
+        "name": "caoshuhao",
+        "passowrd": "csh",
+        "profession": "business_man",
+        "id": 2
+    },
+    "user3": {
+        "name": "xiajiale",
+        "passowrd": "xjl",
+        "profession": "leader",
+        "id": 3
+    }
+}
