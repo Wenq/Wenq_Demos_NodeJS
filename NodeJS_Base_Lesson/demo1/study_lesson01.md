@@ -4,11 +4,11 @@
  * @Author: wenq
  * @Date: 2020-01-01 17:58:40
  * @LastEditors  : wenq
- * @LastEditTime : 2020-01-01 19:39:14
+ * @LastEditTime : 2020-01-15 22:57:00
  -->
 ### nodejs教程学习
 
-(学习连接)[https://www.runoob.com/nodejs/nodejs-tutorial.html]
+[学习连接](https://www.runoob.com/nodejs/nodejs-tutorial.html)
 
 
 # 初识nodeJS
